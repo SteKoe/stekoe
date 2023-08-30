@@ -6,4 +6,4 @@
 <a href="https://github.com/stekoe/stekoe">
   <img align="top" src="https://github-readme-stats-stekoe.vercel.app/api/top-langs/?username=stekoe&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&layout=compact&theme=material-palenight" alt="SteKoes's GitHub Stats" width="400"/></a>
 <a href="https://github.com/stekoe/stekoe">
-  <img align="top" src="https://github-readme-stats-stekoe.vercel.app/api?username=stekoe&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="SteKoes' Tech-Stack on GitHub" width="400"/></a>
+  <img align="top" src="https://github-readme-stats-stekoe.vercel.app/api?username=stekoe&show_icons=true&hide_rank=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="SteKoes' Tech-Stack on GitHub" width="400"/></a>
