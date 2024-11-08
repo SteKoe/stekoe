@@ -1,9 +1,5 @@
-# Hello, World!
+# Stephan Köninger
 
-[![Website](https://img.shields.io/badge/Website-stekoe.de-informational?style=flat-square&logo=jekyll&logoColor=white)](https://stekoe.de)
-[![Twitter](https://img.shields.io/badge/Twitter-s_koeninger-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/s_koeninger/)
+Stephan Köninger is a versatile developer with extensive experience in both backend and frontend development, as well as in the DevOps domain. His technical focus is on migrating and developing applications in cloud environments, implementing modern microservice architectures, and automating development processes.
 
-<a href="https://github.com/stekoe/stekoe">
-  <img align="top" src="https://github-readme-stats-stekoe.vercel.app/api/top-langs/?username=stekoe&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&layout=compact&theme=material-palenight" alt="SteKoes's GitHub Stats" width="400"/></a>
-<a href="https://github.com/stekoe/stekoe">
-  <img align="top" src="https://github-readme-stats-stekoe.vercel.app/api?username=stekoe&show_icons=true&hide_rank=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="SteKoes' Tech-Stack on GitHub" width="400"/></a>
+Stephan is actively involved in the developer community, delivering talks on topics such as Spring Boot and Testcontainers, and contributing to open-source projects.
